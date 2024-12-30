@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![IMG_1270](https://github.com/user-attachments/assets/f41c4faa-d594-457a-81b6-0d3ca07535f2)
 <!--
 
 **Here are some ideas to get you started:**
