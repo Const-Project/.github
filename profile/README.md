@@ -1,1 +1,3 @@
-<img src="https://github.com/user-attachments/assets/f41c4faa-d594-457a-81b6-0d3ca07535f2.jpeg width="200" height="400"/>
+## Const-Project
+2024/12/23 ~ 2025/02/22 사이드 프로젝트 및 메인 프로젝트 기획 </br>
+2025/03/01 ~ 메인 프로젝트
